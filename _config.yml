@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.4342105
 color:
   saturation: 0.7443609
   brandStrength: 0.9285714
-  lightness: 0.2637845
+  rhythmicContrast: 0.6666667
   brandColors:
     - '#FFFFFF'
     - '#211F20'
     - '#EA1D27'
     - '#C7C6C6'
     - '#A4A2A3'
-  rhythmicContrast: 0.6666667
+  lightness: 0.2637845
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.9260651
+typography_spectrum: 0.4342105
 name: Robin Lodge Associates
