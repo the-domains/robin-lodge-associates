@@ -1,7 +1,7 @@
 name: Robin Lodge Associates
 favicon: null
-layout_spectrum: 0.9260651
-typography_spectrum: 0.4342105
+layout_spectrum: 1
+typography_spectrum: 0.39688
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#C7C6C6'
     - '#A4A2A3'
   brandStrength: 0.9285714
-  lightness: 0.2637845
+  lightness: 0.625
   saturation: 0.7443609
   rhythmicContrast: 0.6666667
 purpose: []
