@@ -1,14 +1,7 @@
-color:
-  saturation: 0.7443609
-  brandStrength: 0.9285714
-  rhythmicContrast: 0.6666667
-  brandColors:
-    - '#FFFFFF'
-    - '#211F20'
-    - '#EA1D27'
-    - '#C7C6C6'
-    - '#A4A2A3'
-  lightness: 0.2637845
+name: Robin Lodge Associates
+favicon: null
+layout_spectrum: 0.9260651
+typography_spectrum: 0.4342105
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.9260651
-typography_spectrum: 0.4342105
-name: Robin Lodge Associates
+title: A Companion Site for Robin Lodge Associates Ltd
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#211F20'
+    - '#EA1D27'
+    - '#C7C6C6'
+    - '#A4A2A3'
+  brandStrength: 0.9285714
+  lightness: 0.2637845
+  saturation: 0.7443609
+  rhythmicContrast: 0.6666667
+purpose: []
